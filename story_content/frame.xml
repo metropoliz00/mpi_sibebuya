@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="pxabnsnfns00000000001" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="100" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npnxnanbnsnfns00000000001" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="100" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
   <layouts>
-    <layout name="npnxnanbsnfns00000000001" font="Open Sans" controllayout="npnxnanbsnfns00000000001" colorscheme="pxabnsnfns00000000001" string_table="pxabnsnfns00000000001" />
-    <layout name="pxabnsnfns00000000001" font="Open Sans" controllayout="pxabnsnfns00000000001" colorscheme="pxabnsnfns00000000001" string_table="pxabnsnfns00000000001" />
-    <layout name="npxnabnsnfns00000000001" font="Open Sans" controllayout="npxnabnsnfns00000000001" colorscheme="pxabnsnfns00000000001" string_table="pxabnsnfns00000000001" />
-    <layout name="npnxnanbnsnfns00000000001" font="Open Sans" controllayout="npnxnanbnsnfns00000000001" colorscheme="pxabnsnfns00000000001" string_table="pxabnsnfns00000000001" />
-    <layout name="pxabnsnfns00000000000" font="Open Sans" controllayout="pxabnsnfns00000000000" colorscheme="pxabnsnfns00000000001" string_table="pxabnsnfns00000000001" />
+    <layout name="npnxnanbsnfns00000000001" font="Open Sans" controllayout="npnxnanbsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
+    <layout name="pxabnsnfns00000000001" font="Open Sans" controllayout="pxabnsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
+    <layout name="npxnabnsnfns00000000001" font="Open Sans" controllayout="npxnabnsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
+    <layout name="npnxnanbnsnfns00000000001" font="Open Sans" controllayout="npnxnanbnsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
+    <layout name="pxabnsnfns00000000000" font="Open Sans" controllayout="pxabnsnfns00000000000" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
   </layouts>
   <control_options>
     <optiongroups>
@@ -201,7 +201,7 @@
     </control_layout>
   </control_layouts>
   <colorschemes>
-    <colorscheme name="pxabnsnfns00000000001">
+    <colorscheme name="npnxnanbnsnfns00000000001">
       <color_group name="accessibility">
         <group_colors>
           <color name="focus_rect">
@@ -1129,7 +1129,7 @@
     </colorscheme>
   </colorschemes>
   <string_tables>
-    <string_table name="pxabnsnfns00000000001">
+    <string_table name="npnxnanbnsnfns00000000001">
       <string id="three_image_progress_audio">progress</string>
       <string id="three_image_audio">audio</string>
       <string id="three_image_camera_down">camera moved down</string>
@@ -1298,7 +1298,16 @@
         <slidelink slideid="_player.6lIic2DUoKy" displaytext="SOAL EVALUASI" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6lIic2DUoKy.6TweFDlplff" displaytext="Test Login" expand="false" type="slide" />
-            <slidelink slideid="_player.6lIic2DUoKy.6TfzpnBjo41" displaytext="Proses makan dan dimakan dapat mengendalikan populasi makhluk hidup agar tetap seimbang. Hewan herbivora akan mengontrol perkembangan populasi..." expand="false" type="slide" />
+            <slidelink slideid="_player.6lIic2DUoKy.6TfzpnBjo41" displaytext="Saat liburan ke Yogyakarta, Andi diajak orang tuanya menyaksikan pertunjukan Wayang Kulit dengan iringan gamelan. Ia juga mencicipi gudeg dan melihat kerajinan batik di Kampung Batik.&#xA;&#xA;Apa yang bisa disimpulkan dari budaya yang Andi temui di Yogyakarta?" expand="false" type="slide" />
+            <slidelink slideid="_player.6lIic2DUoKy.5seEcHs3eJz" displaytext="Di Tuban, tempat tinggal Rina, setiap bulan Suro diadakan ritual Larung Sesaji di Pantai Boom. Acara ini melibatkan masyarakat pesisir dan diiringi kesenian lokal seperti jaranan dan gamelan.&#xA;&#xA;Apa manfaat Rina mengenal budaya lokal seperti Larung Sesaji?" expand="false" type="slide" />
+            <slidelink slideid="_player.6lIic2DUoKy.5iYVDUgfBVs" displaytext="Salah satu murid pindahan dari Kalimantan membawa makanan khas daerahnya yaitu amplang dan mengenakan pakaian adat Dayak saat pentas seni. Beberapa teman mengejek pakaiannya yang dianggap aneh.&#xA;&#xA;Sikap yang seharusnya ditunjukkan teman-teman terhadap murid tersebut adalah..." expand="false" type="slide" />
+            <slidelink slideid="_player.6lIic2DUoKy.6SSCMpbgxiH" displaytext="Dalam kegiatan Proyek Penguatan Profil Pelajar Pancasila, siswa di Maluku Utara membuat pameran budaya. Kelompok Aldo menampilkan tarian Cakalele dan menjelaskan sejarahnya.&#xA;&#xA;Mengapa kegiatan tersebut termasuk usaha melestarikan budaya?" expand="false" type="slide" />
+            <slidelink slideid="_player.6lIic2DUoKy.6CFySEwzcLx" displaytext="Siti berasal dari Sumatera Barat. Ia memperkenalkan rumah gadang, tari piring, dan rendang dalam kegiatan Hari Budaya di sekolah.&#xA;&#xA;Budaya yang diperkenalkan Siti termasuk dalam..." expand="false" type="slide" />
+            <slidelink slideid="_player.6lIic2DUoKy.6KVvJ6C2veY" displaytext="Di Bali, Wayan mengikuti upacara Galungan bersama keluarganya. Ia belajar cara membuat penjor dan menyusun sesajen. Temannya dari luar Bali bertanya-tanya tentang makna kegiatan tersebut.&#xA;&#xA;Bagaimana sebaiknya Wayan menjelaskan budaya daerahnya kepada temannya?" expand="false" type="slide" />
+            <slidelink slideid="_player.6lIic2DUoKy.5hgvqKAqtpl" displaytext="Fadli berasal dari Aceh. Saat tampil di acara sekolah, ia memakai pakaian adat Aceh dan menyanyikan lagu Bungong Jeumpa. Sebagian teman kagum, tetapi ada yang merasa tidak tertarik karena tidak mengerti bahasanya.&#xA;&#xA;Apa sikap terbaik dalam menghadapi keberagaman budaya seperti yang dilakukan Fadli?" expand="false" type="slide" />
+            <slidelink slideid="_player.6lIic2DUoKy.6jfvUKzBam5" displaytext="Anisa tinggal di Toraja, Sulawesi Selatan. Ia membuat proyek video tentang upacara Rambu Solo’ dan bagaimana tradisi itu dijalankan secara turun-temurun.&#xA;&#xA;Apa tujuan Anisa membuat video tentang budaya daerahnya?" expand="false" type="slide" />
+            <slidelink slideid="_player.6lIic2DUoKy.6DrGgN1XzYW" displaytext="Rafi mencatat bahwa di Papua terdapat tarian Yospan, rumah adat Honai, dan alat musik Tifa. Ia juga melihat suku Dani memiliki tradisi pesta bakar batu.&#xA;&#xA;Apa yang ditunjukkan oleh budaya-budaya yang dicatat Rafi?" expand="false" type="slide" />
+            <slidelink slideid="_player.6lIic2DUoKy.6l6d9jNWpB7" displaytext="Dalam festival budaya di sekolah, Edo dari Betawi menampilkan tari Topeng dan makanan khas seperti kerak telor. Ia juga mengajak teman-temannya untuk belajar sedikit gerakan tari.&#xA;&#xA;Apa dampak positif dari sikap Edo dalam kegiatan tersebut?" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.6nMg5gxLh8n" displaytext="PETA BUDAYA INDONESIA" expand="true" type="slide">
@@ -1310,6 +1319,7 @@
             <slidelink slideid="_player.6nMg5gxLh8n.6WawpNFvja8" displaytext="SUMATERA BARAT" expand="false" type="slide" />
             <slidelink slideid="_player.6nMg5gxLh8n.6nnNBXO2kKM" displaytext="JAMBI" expand="false" type="slide" />
             <slidelink slideid="_player.6nMg5gxLh8n.5zm5fMG4cRY" displaytext="SUMATERA SELATAN" expand="false" type="slide" />
+            <slidelink slideid="_player.6nMg5gxLh8n.6qaRWSyGr77" displaytext="BENGKULU" expand="false" type="slide" />
             <slidelink slideid="_player.6nMg5gxLh8n.5b2me7ztwFG" displaytext="BANTEN" expand="false" type="slide" />
             <slidelink slideid="_player.6nMg5gxLh8n.6bS10nSQdTU" displaytext="JAKARTA" expand="false" type="slide" />
             <slidelink slideid="_player.6nMg5gxLh8n.5cHM7r3DGu3" displaytext="JAWA BARAT" expand="false" type="slide" />
